@@ -5,6 +5,7 @@ require (
 	cloud.google.com/go/compute/metadata v0.2.2 // indirect
 	cloud.google.com/go/kms v1.7.0
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/golang-jwt/jwt/v4 v4.4.3
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pquerna/cachecontrol v0.1.0
