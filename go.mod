@@ -6,7 +6,7 @@ require (
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pquerna/cachecontrol v0.1.0
 	golang.org/x/oauth2 v0.3.0
-	google.golang.org/api v0.103.0
+	google.golang.org/api v0.104.0
 	google.golang.org/appengine v1.6.7
 )
 
@@ -18,13 +18,13 @@ require (
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/uuid v1.3.0 // indirect
-	github.com/googleapis/enterprise-certificate-proxy v0.2.0 // indirect
+	github.com/googleapis/enterprise-certificate-proxy v0.2.1 // indirect
 	github.com/googleapis/gax-go/v2 v2.7.0 // indirect
 	go.opencensus.io v0.24.0 // indirect
-	golang.org/x/net v0.3.0 // indirect
+	golang.org/x/net v0.4.0 // indirect
 	golang.org/x/sys v0.3.0 // indirect
 	golang.org/x/text v0.5.0 // indirect
-	google.golang.org/genproto v0.0.0-20221206210731-b1a01be3a5f6 // indirect
+	google.golang.org/genproto v0.0.0-20221207170731-23e4bf6bdc37 // indirect
 	google.golang.org/grpc v1.51.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 )
